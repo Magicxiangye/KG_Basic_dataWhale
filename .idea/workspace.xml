@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="681551de-40e2-45dd-9170-dd9104e2fc74" name="Default Changelist" comment="Task_01" />
+    <list default="true" id="681551de-40e2-45dd-9170-dd9104e2fc74" name="Default Changelist" comment="Task_02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QASystemOnMedicalGraph-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -94,6 +96,8 @@
       <workItem from="1610349646700" duration="862000" />
       <workItem from="1610350537849" duration="2217000" />
       <workItem from="1610365345110" duration="797000" />
+      <workItem from="1610458380738" duration="120000" />
+      <workItem from="1610547564846" duration="485000" />
     </task>
     <task id="LOCAL-00001" summary="Task_01">
       <created>1610365456178</created>
@@ -102,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610365456178</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task_02">
+      <created>1610458456207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610458456207</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,10 +129,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task_01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_01" />
+    <MESSAGE value="Task_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_02" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="207" key="FileChooserDialogImpl" timestamp="1610366307743">
@@ -156,10 +169,10 @@
       <screen x="0" y="40" width="1536" height="824" />
     </state>
     <state x="270" y="96" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1610351133396" />
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1610365463539">
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1610458491609">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1610365463539" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1610458491609" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KG_Basic_dataWhale$test_connet.coverage" NAME="test_connet Coverage Results" MODIFIED="1610352256553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
