@@ -16,6 +16,6 @@ if __name__ == '__main__':
     properties = {'date': '2019-07-11'}
     # 建立关系的语句
     ab = Relationship(a, "LOVE", b, **properties)
-    # step 5：运行
+    # step 5：运行sd
     tx.create(ab)
     tx.commit()

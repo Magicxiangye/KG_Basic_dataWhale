@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="681551de-40e2-45dd-9170-dd9104e2fc74" name="Default Changelist" comment="Task_04" />
+    <list default="true" id="681551de-40e2-45dd-9170-dd9104e2fc74" name="Default Changelist" comment="Task_05">
+      <change beforePath="$PROJECT_DIR$/test_connet.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_connet.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +100,7 @@
       <workItem from="1610547564846" duration="1041000" />
       <workItem from="1610628433918" duration="695000" />
       <workItem from="1610729617577" duration="288000" />
+      <workItem from="1610879671114" duration="286000" />
     </task>
     <task id="LOCAL-00001" summary="Task_01">
       <created>1610365456178</created>
@@ -134,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610628504278</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task_05">
+      <created>1610879797878</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610879797878</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +167,8 @@
     <MESSAGE value="Task_02" />
     <MESSAGE value="Task_03" />
     <MESSAGE value="Task_04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_04" />
+    <MESSAGE value="Task_05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_05" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="207" key="FileChooserDialogImpl" timestamp="1610366307743">
